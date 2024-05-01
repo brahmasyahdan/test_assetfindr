@@ -12,4 +12,5 @@ This is a testing project
    - Password: 123456
 
 ## Execute Test:
-1. run on terminal `npm run start:test` and wait until the test finishes running
+1. Run on terminal `npm run start:test` and wait until the test finishes running
+2. To report testing results, you can see them in the terminal or at `cypress/reports/mochawesome.html`
